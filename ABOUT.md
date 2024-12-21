@@ -26,8 +26,8 @@ Welcome to my GitHub profile! I'm a passionate developer always eager to learn n
 
 ## 📈 GitHub Stats
 
-![LionStone-1's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LionStone-1&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LionStone-1&layout=compact&theme=radical)
+![LionStone-1's GitHub Stats](https://ibb.co/VVwGnt2)
+
 
 ## 🏆 GitHub Trophies
 
