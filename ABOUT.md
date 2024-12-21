@@ -4,18 +4,14 @@
 
 Welcome to my GitHub profile! I'm a passionate developer always eager to learn new technologies and improve my skills. Here you can find some of the projects I've been working on and explore my contributions to the open-source community.
 
----
-
 ## 🚀 About Me
 
-- 🔭 I’m currently working on **Stacks**
-- 🌱 I’m currently learning **System security and Breaching**
-- 👯 I’m looking to collaborate on **Project on networking**
-- 💬 Ask me about **Web development, Database Management**
-- 📫 How to reach me: **shashwatguptaid@gmail.com**
-- ⚡ Fun fact: **Always committed towards work**
-
----
+- 🔭 I’m currently working on **[Stacks]**
+- 🌱 I’m currently learning **[System security and Breaching]**
+- 👯 I’m looking to collaborate on **[Project on networking]**
+- 💬 Ask me about **[Web development,Database Management]**
+- 📫 How to reach me: **[shashwatguptaid@gmail.com]**
+- ⚡ Fun fact: **[Always commited towards work]**
 
 ## 🛠️ Technologies & Tools
 
@@ -28,37 +24,21 @@ Welcome to my GitHub profile! I'm a passionate developer always eager to learn n
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
----
-
 ## 📈 GitHub Stats
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LionStone-1&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LionStone-1&layout=compact&theme=radical&hide_border=true&langs_count=8" />
-</div>
+![LionStone-1's GitHub Stats](https://i.ibb.co/Jn3T6K5/contributions.png)
 
----
+
 
 ## 🏆 GitHub Trophies
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=LionStone-1&theme=radical&no-bg=true&no-frame=true" />
-</div>
-
----
+![LionStone-1's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=LionStone-1&theme=radical&no-bg=true&no-frame=true)
 
 ## 📫 Connect with me
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin-profile"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/your-twitter-handle"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" /></a>
-  <a href="https://your-website.com"><img src="https://img.shields.io/badge/-Website-000000?style=flat-square&logo=about.me&logoColor=white" /></a>
-</div>
-
----
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/your-twitter-handle)
+[![Website](https://img.shields.io/badge/-Website-000000?style=flat-square&logo=about.me&logoColor=white)](https://your-website.com)
 
 Thanks for visiting my profile! Feel free to explore my repositories and reach out if you have any questions or collaboration ideas.
-
----
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=LionStone-1&theme=radical&bg_color=20232a&line=61dafb&point=ffffff&hide_border=true)
+make this more cool
