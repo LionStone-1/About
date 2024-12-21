@@ -6,12 +6,12 @@ Welcome to my GitHub profile! I'm a passionate developer always eager to learn n
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on **[Your Current Project]**
-- 🌱 I’m currently learning **[New Technology or Skill]**
-- 👯 I’m looking to collaborate on **[Project or Idea]**
-- 💬 Ask me about **[Topics you are knowledgeable about]**
-- 📫 How to reach me: **[Your Email or Social Media]**
-- ⚡ Fun fact: **[A fun fact about you]**
+- 🔭 I’m currently working on **[Stacks]**
+- 🌱 I’m currently learning **[System security and Breaching]**
+- 👯 I’m looking to collaborate on **[Project on networking]**
+- 💬 Ask me about **[Web development,Database Management]**
+- 📫 How to reach me: **[shashwatguptaid@gmail.com]**
+- ⚡ Fun fact: **[Always commited towards work]**
 
 ## 🛠️ Technologies & Tools
 
