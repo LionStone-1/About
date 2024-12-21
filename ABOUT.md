@@ -29,11 +29,6 @@ Welcome to my GitHub profile! I'm a passionate developer always eager to learn n
 ![LionStone-1's GitHub Stats](https://i.ibb.co/Jn3T6K5/contributions.png)
 
 
-
-## 🏆 GitHub Trophies
-
-![LionStone-1's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=LionStone-1&theme=radical&no-bg=true&no-frame=true)
-
 ## 📫 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile)
