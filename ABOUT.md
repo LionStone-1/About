@@ -26,8 +26,8 @@ Welcome to my GitHub profile! I'm a passionate developer always eager to learn n
 
 ## 📈 GitHub Stats
 
-![LionStone-1's GitHub Stats](https://ibb.co/VVwGnt2)
-<a href="https://ibb.co/VVwGnt2"><img src="https://i.ibb.co/Jn3T6K5/contributions.png" alt="contributions" border="0"></a>
+![LionStone-1's GitHub Stats](https://i.ibb.co/Jn3T6K5/contributions.png)
+
 
 
 ## 🏆 GitHub Trophies
